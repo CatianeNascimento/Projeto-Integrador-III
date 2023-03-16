@@ -6,6 +6,7 @@
 - Confirmar pedido, alterar status do pedido e finalizar pedido
 - Login do Funcionário, opção de cadastro de um novo perfil, alteração e exclusão de perfil existe limitado a Funcionário com cargo superior.
 <br>
+
 ### Funcionalidades pertecentes somente ao perfil do Cliente: <br>
 - Cadastrar, alterar e cancelar pedido (havendo taxa ao cancelar)
 - Ver (listar) Cardápio, com opção de filtrar por tipo de prato
